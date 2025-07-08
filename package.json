@@ -1,0 +1,31 @@
+{
+  "name": "telegram-marcus-aurelius-bot",
+  "version": "1.0.0",
+  "description": "A Telegram chatbot that simulates Marcus Aurelius personality using GPT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "marcus-aurelius",
+    "chatbot",
+    "openai",
+    "gpt",
+    "philosophy",
+    "stoicism",
+    "stoic"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^4.15.6",
+    "openai": "^4.24.1",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+} 
