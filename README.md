@@ -102,9 +102,9 @@ The bot incorporates fundamental principles of Stoicism:
 ## 🛠️ Project Structure
 
 ```
-├── index.js          # Main bot file
-├── package.json      # Dependencies and scripts
-├── environment.example # Example environment variables
+├── index.js         # Main bot file
+├── package.json     # Dependencies and scripts
+├── .env.example     # Example environment variables
 ├── .env             # Your environment variables (do not commit)
 ├── .gitignore       # Git ignore file
 └── README.md        # This file
