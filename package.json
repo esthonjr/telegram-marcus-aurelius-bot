@@ -18,7 +18,7 @@
     "stoicism",
     "stoic"
   ],
-  "author": "",
+  "author": "Esthon Jr",
   "license": "MIT",
   "dependencies": {
     "telegraf": "^4.15.6",
